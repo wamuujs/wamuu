@@ -15,5 +15,6 @@
   "devDependencies": {
     "commander": "^9.2.0",
     "inquirer": "^8.2.3"
-  }
+  },
+  "gitHead": "704eeb5641d095cb04168199d42faa5d83430c33"
 }
