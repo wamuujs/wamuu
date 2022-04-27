@@ -1,6 +1,9 @@
 {
   "name": "wamuu",
   "description": "a really cool app",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
