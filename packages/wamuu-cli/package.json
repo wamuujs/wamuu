@@ -1,0 +1,19 @@
+{
+  "name": "@wamuu/wamuu-cli",
+  "version": "1.0.0",
+  "description": "wamuu-cli",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "wamuu"
+  ],
+  "bin": {
+    "wamuu": "./bin/wamuu.js"
+  },
+  "author": "Boyang Shang",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^9.2.0",
+    "inquirer": "^8.2.3"
+  }
+}
