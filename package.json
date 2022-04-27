@@ -1,6 +1,6 @@
 {
   "name": "wamuu",
-  "private": true,
+  "description": "a really cool app",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
