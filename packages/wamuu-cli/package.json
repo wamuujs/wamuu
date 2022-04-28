@@ -1,6 +1,6 @@
 {
   "name": "wamuu-cli",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.5-alpha.0",
   "description": "wamuu-cli",
   "main": "index.js",
   "scripts": {},
@@ -16,6 +16,5 @@
     "commander": "^9.2.0",
     "inquirer": "^8.2.3"
   },
-  "devDependencies": {},
   "gitHead": "ee46875b88c1c695e4210dd951dc81bef1df64ed"
 }
